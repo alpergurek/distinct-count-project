@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="distinct-letters-count:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/distinct_letters_count_jar</output-path>
+    <root id="archive" name="distinct-letters-count.jar">
+      <element id="module-output" name="distinct-letters-count" />
+    </root>
+  </artifact>
+</component>
