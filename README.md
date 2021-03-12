@@ -2,6 +2,7 @@
 
 Project : public
 Java version : java SDK version 11
+main project class : DistinctLettersCountMain
 
 Checking out the project : 
 
